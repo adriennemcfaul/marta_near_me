@@ -10,6 +10,9 @@ end
 gem 'geocoder'
 gem 'httparty'
 gem 'jquery-rails'
+gem 'figaro'
+gem 'font-awesome-rails'
+gem 'bootstrap-sass'
 
 ##########################
 
